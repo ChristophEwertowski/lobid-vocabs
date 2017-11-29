@@ -3,6 +3,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix vann: <http://purl.org/vocab/vann/> .
 
+blub
 <http://purl.org/lobid/rpb>
     a skos:ConceptScheme ;
     dct:title "Systematik der Rheinland-Pfälzischen Bibliographie"@de , "Classification scheme for the bibliography of Rhineland-Palatinate"@en ;
